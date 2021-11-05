@@ -16,7 +16,8 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/ArpithaVijayakumar/WolfTrack)
 ![Lines of code](https://img.shields.io/tokei/lines/github/ArpithaVijayakumar/WolfTrack)
 [![Build Status](https://app.travis-ci.com/UnnatiPrema/WolfTrackPlus.svg?branch=main)](https://app.travis-ci.com/UnnatiPrema/WolfTrackPlus)
-**Goal:**
+
+**Goal:**<br/>
 
 One stop shop for your very own personal Job-tracker application!
 
@@ -34,7 +35,8 @@ Do away with complicated, messy spreadsheets! WolfTrack keeps track of every job
 ## Watch WolfTrack in action 
 https://user-images.githubusercontent.com/18304940/135203686-c480c101-7aa5-40ca-9f43-baf291c666cd.mp4
 
-Updated video: https://www.powtoon.com/ws/enUzEufo2at/1/m
+
+[![Video Embed](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.powtoon.com/embed/enUzEufo2at/)
 
 
 **Our motto:**
@@ -207,6 +209,5 @@ Please refer to the [Contributing.md](https://github.com/Himanshuu-Gupta/WolfTra
 
 ## Contact 
 In case of any issues, please e-mail your queries to wolftrackse@gmail.com or raise an issue on this repository
-
 
 
