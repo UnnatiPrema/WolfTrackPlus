@@ -30,6 +30,6 @@ jobs:
         pip install pytest-cov
     - name: Test with pytest
       run: |
-        pytest
+        python ./UnitTesting/login_page_testing.py
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v2
