@@ -28,7 +28,6 @@ jobs:
         pip install pytest
         pip install codecov
         pip install pytest-cov
-        pip install unittests
     - name: Test with pytest
       run: |
         pytest
