@@ -35,3 +35,5 @@ jobs:
         coverage run ./UnitTesting/login_page_testing.py
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v2
+      with:
+        token: ${{ dff2c9fb-33b7-4ed7-ac9e-051f55956c1f }}
