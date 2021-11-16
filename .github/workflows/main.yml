@@ -36,4 +36,4 @@ jobs:
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v2
       with:
-        token: ${{ dff2c9fb-33b7-4ed7-ac9e-051f55956c1f }}
+        token: dff2c9fb-33b7-4ed7-ac9e-051f55956c1f
