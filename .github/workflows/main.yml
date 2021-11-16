@@ -32,6 +32,6 @@ jobs:
       run: |
         python ./UnitTesting/login_page_testing.py
         pip install coverage
-        coverage run -m unittest
+        coverage run ./UnitTesting/login_page_testing.py
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v2
